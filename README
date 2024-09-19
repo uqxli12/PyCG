@@ -1,4 +1,5 @@
-PyCGB stands for Python codes for comparative genomcis of Bacteria. This Python package aims to provide a pipeline for conducting comparative genomics analysis of Bacterial genomes at a large scale, say, >200 genomes.
+PyCGB stands for Python codes for comparative genomcis of Bacteria. This Python package aims to provide a pipeline for conducting 
+comparative genomics analysis of Bacterial genomes at a large scale, say, >200 genomes.
 The main modules include:
 1. Genome-based taxonomics and Prokka annotation
 2. antiSMASH annotation
